@@ -70,15 +70,7 @@
 
 <br clear="both">
 
-<h3 align="center">Want to see this snake eat all the contributions?</h3>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Stoic-Coder2003/Stoic-Coder2003/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
