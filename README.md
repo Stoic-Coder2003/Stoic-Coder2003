@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="![Shubh Mehrotra (2000 × 376px)](https://github.com/Stoic-Coder2003/Stoic-Coder2003/assets/135078403/aa574c95-05f6-404c-85bf-740624e2d68e)
+" alt="Banner">
+</div>
+
+
 <br clear="both">
 
 <h1 align="center">Hi There! Welcome to my profile readme</h1>
