@@ -2,14 +2,14 @@
 
 https://i.pinimg.com/originals/3d/27/ea/3d27ea4cdd8065f951ce06717dec5120.gif
 
-##### I am well equipped with creating catchy and trending UI Designs on Figma and Developing them through HTML, CSS, JavaScript, React.JS and Next.JS . I can also integrate BAAS Services into my codes and make them a complete SAAS project! 
+### I am well equipped with creating catchy and trending UI Designs on Figma and Developing them through HTML, CSS, JavaScript, React.JS and Next.JS . I can also integrate BAAS Services into my codes and make them a complete SAAS project! 
 
 ## My Repository maintenance includes:
 
-###### 1. A Complete Documentation of my projects based on a thorough process. 📄📄
+#### 1. A Complete Documentation of my projects based on a thorough process. 📄📄
 
-###### 2. A screenshot of the Figma file which was used for the reference of the design created by me. 📷🖼️
-###### 3. An updated code with the process I went through for the creation of the project along with a brief description of the components used. 🧑🏽‍💻
+#### 2. A screenshot of the Figma file which was used for the reference of the design created by me. 📷🖼️
+#### 3. An updated code with the process I went through for the creation of the project along with a brief description of the components used. 🧑🏽‍💻
 
 <div align="center" style="gap: '5px'">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
